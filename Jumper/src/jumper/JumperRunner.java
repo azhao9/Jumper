@@ -31,6 +31,7 @@ public class JumperRunner
 		world.add(new Location(0, 6), new Flower());
 
 		world.add(new Location(0, 9), new Rock());
+		world.add(new Location(9, 0), new Flower());
 
 		world.add(new Location(8, 9), new Flower());
 		world.add(new Location(9, 9), new Flower());

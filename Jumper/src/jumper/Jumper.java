@@ -8,7 +8,7 @@ import java.awt.Color;
 public class Jumper extends Actor
 {
 	/**
-	 * Contructs a Jumper with a specified color
+	 * Constructs a Jumper with a specified color
 	 * 
 	 * @param color
 	 *            the color of the Jumper
